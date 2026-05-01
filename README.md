@@ -1,2 +1,3 @@
 # Deepraj-Singha-6th-Sem-CSE-Data-Mining-Assignments
-A Repository for all the assigned assignments by Assistant Professor Shashadhar Das, Dept CSE, BVEC
+The above folder each contains all the assignments in order from 1 to 4
+Each with Confusion Matrix, and a collab notbook 
