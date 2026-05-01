@@ -2,13 +2,9 @@
 
 This project implements a Convolutional Neural Network (CNN) to classify handwritten digits from the MNIST dataset. This document outlines the key visualizations and outputs generated during the evaluation phase of the model.
 
+### Model Accuracy 0.9932  over 20 epochs.
+
 ## 1. Key Visualizations
-
-### Model Loss Development
-<img width="855" height="547" alt="Traning Loss" src="https://github.com/user-attachments/assets/91ad3b99-678b-457b-85bf-81a71d531594" />
-
-* **Description:** This plot tracks the **Training Loss vs. Validation Loss** over 20 epochs.
-* **Purpose:** It is used to monitor how well the model is learning (convergence) and to identify if the model is beginning to overfit the training data (where training loss continues to drop while validation loss rises).
 
 ### Confusion Matrix
 <img width="797" height="701" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/0d6810af-2eff-4202-ae4a-513d5a2ca15f" />
